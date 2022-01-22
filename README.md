@@ -1,5 +1,8 @@
 # Web3 Fullstack Learning
 
+- 🔥 **Live Demo**: https://web3-fullstack-demo.netlify.app/
+- **Etherscan**: https://ropsten.etherscan.io/address/0x4dabC6a4f04c1E94cd875D4d8B2Eaf52eF407176
+
 ## Projects
 
 ### Client
