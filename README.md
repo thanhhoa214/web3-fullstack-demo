@@ -8,8 +8,8 @@
 
 ### Client
 
-- Framework: **React**
-- Library: `ethers`
+- Technology: **React Hooks**, **ethers**, **TypeScript**, **SCSS**, **hardhat**
+- Feature: Transfer money between logged Metamask account to another
 
 #### 1. Installation
 
