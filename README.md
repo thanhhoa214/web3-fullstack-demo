@@ -11,9 +11,9 @@
 - Framework: **React**
 - Library: `ethers`
 
-#### Installation
+#### 1. Installation
 
-#### Smart Contract Connection
+#### 2. Smart Contract Connection
 
 After the contract has been deployed, do the following steps:
 
@@ -32,7 +32,7 @@ export const contractAddress = "0x4dabC6a4f04c1E94cd875D4d8B2Eaf52eF407176";
 
 - Development Environment: **Hardhat**
 
-#### Installation
+#### 1. Installation
 
 - Init npm project
 
@@ -52,7 +52,7 @@ npm i -D hardhat
 npm i -D @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers
 ```
 
-#### Deployment
+#### 2. Deployment
 
 - Create an **[Alchemy](https://www.alchemy.com/)** app
 - Go to the app details, click **VIEW KEY** on top right and copy **HTTP** url
